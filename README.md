@@ -11,9 +11,8 @@ A link to the deployed application can be found here.
 
 
 ## Usage 
-
-![group of people working together](starter/assets/images/screenshot1.png)
-![Horiseon's main strategies](starter/assets/images/screenshot2.png)
+![group of people working together](assets/images/screenshot1.png)
+![Horiseon's main strategies](assets/images/screenshot2.png)
 
 ---
 
